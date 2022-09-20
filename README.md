@@ -12,4 +12,5 @@ Languages & libraries that built this project include:
 1. Download & extract a zip file for this website.
 2. Double click index.html file.
 3. Website opens on your default browser. 
+4. To look at code, double click files in this repository.
 
