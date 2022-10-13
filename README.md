@@ -7,8 +7,9 @@ Languages & libraries that built this project include:
 2. CSS
 3. PHP
 4. Javascript
-5. Bootstrap 4
-<br><ins>Launch</ins><br>
+5. Bootstrap 4<br>
+
+<ins>Launch</ins><br>
 1. Download & extract a zip file for this website.
 2. Double click index.html file.
 3. Website opens on your default browser. 
